@@ -236,4 +236,4 @@ Sifu is available as a full free version, including all features and updates. En
 Ready to experience the action? **Download Sifu now and get started on your martial arts journey!**
 
 ---
-**Last updated:** 2026-11-04 01:08:50 UTC
+**Last updated:** 2026-11-04 08:52:32 UTC
